@@ -47,7 +47,6 @@
  /*04/12/2004 HSIPROD  4NSC  correct PLIXOPT to 250              LBS */
  /*                                                                  */
  /*01/27/2012 RCQ1882  2HSC   RECOMPILED TO USE THE NEW CWA      NAK */
- /*                    HSI    RECOMPILED FOR KT                      */
  /********************************************************************/
  DCL VERSION    CHAR(17) STATIC INIT('2HSC - 01/27/2012');
  DCL MODULE     CHAR( 7) STATIC INIT('QBBIL2 ');
